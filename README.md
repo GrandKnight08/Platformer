@@ -2,7 +2,7 @@
 
 Tasks to complete:
 
--~~Platforms~~
+- ~~Platforms~~
 - Pickups
 - Dying
 - Worldbuild 2.0
