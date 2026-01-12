@@ -3,6 +3,6 @@
 Tasks to complete:
 
 - ~~Platforms~~
-- Pickups
+- ~~Pickups~~
 - Dying
 - Worldbuild 2.0
